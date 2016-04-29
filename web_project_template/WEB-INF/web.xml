@@ -9,6 +9,6 @@
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>TestServlet</servlet-name>
-		<url-pattern>/hel</url-pattern>
+		<url-pattern>/he</url-pattern>
 	</servlet-mapping>
 </web-app>
